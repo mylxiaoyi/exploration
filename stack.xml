@@ -1,0 +1,17 @@
+<stack name="exploration" version="0.1.0">
+  <description brief="exploration stack">
+     A 2D exploration library that builds on top of the 2D navigation stack provided by Willow Garage.
+  </description>
+  <author>Maintained by Charles DuHadway</author>
+  <license>BSD</license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/exploration</url>
+  <depend stack="geometry"/> <!-- tf --> 
+  <depend stack="visualization_common"/> <!-- visualization_msgs --> 
+  <depend stack="common"/> <!-- actionlib --> 
+  <depend stack="ros"/> <!-- rosconsole, roslib, std_msgs, roscpp --> 
+  <depend stack="navigation"/> <!-- move_base_msgs, navfn, costmap_2d --> 
+  <depend stack="common_msgs"/> <!-- nav_msgs, geometry_msgs --> 
+  <depend stack="bosch_common"/> <!-- geom -->
+
+</stack>
