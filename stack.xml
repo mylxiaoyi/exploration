@@ -2,7 +2,7 @@
   <description brief="exploration stack">
      A 2D exploration library that builds on top of the 2D navigation stack provided by Willow Garage.
   </description>
-  <author>Maintained by Charles DuHadway</author>
+  <author>Maintained by Benjamin Pitzer</author>
   <license>BSD</license>  
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/exploration</url>
