@@ -1,6 +1,6 @@
 <package>
   <description brief="frontier based exploration">A node that provides frontier based exploration.</description>
-  <author>Charles DuHadway</author>
+  <author>Charles DuHadway (maintained by Benjamin Pitzer)</author>
   <license>BSD</license>
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/explore</url>

@@ -1,6 +1,6 @@
 <package>
   <description brief="Explore demos">Demos for explore package in bosch-ros-pkg</description>
-  <author>Charles DuHadway</author>
+  <author>Charles DuHadway (maintained by Benjamin Pitzer)</author>
   <license>BSD</license>
   <review status="na" notes=""/>
   <url>http://ros.org/wiki/explore_stage</url>
