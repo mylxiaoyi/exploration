@@ -11,7 +11,7 @@
   <depend stack="geometry" /> <!-- tf -->
   <depend stack="navigation" /> <!-- move_base, move_base_msgs, navfn, costmap_2d -->
   <depend stack="ros" /> <!-- roslib, std_msgs, roscpp -->
-  <depend stack="simulator_stage" /> <!-- stage -->
+  <depend stack="stage" /> <!-- stage -->
   <depend stack="slam_gmapping" /> <!-- gmapping -->
   <depend stack="visualization_common" /> <!-- visualization_msgs -->
 
